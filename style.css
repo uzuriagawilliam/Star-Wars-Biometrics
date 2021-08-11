@@ -1,0 +1,24 @@
+.header{
+height: 10rem;
+background-color: #154890;
+color: #FF6600;
+text-align: center;
+padding-top: 3rem;
+}
+body{
+  background-color: #ffffff;
+}
+.mainCon{
+  background-color: #F5EDE3;
+  min-height: 55rem;  
+}
+.footer{
+  background-color: #E1D4C0;
+  min-height: 2rem;
+  text-align: center;
+  color:#154890;
+}
+.inputDiv{
+  margin-top: 1rem;
+  padding-left: 2rem;
+}
